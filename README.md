@@ -23,4 +23,4 @@ VS2013，纯C语言实现，没有依赖第三方库。
 
 # DEMO
 
-![matchimg](Image\matchimg.bmp)
+![matchimg](https://github.com/Bartopt/C_SIFT/blob/master/Image/matchimg.png)
