@@ -1,0 +1,55 @@
+﻿生成启动时间为 2018/6/29 13:58:44。
+     1>项目“C:\Users\Administrator\Desktop\Homework\计算机视觉\C_SIFT\C_SIFT\C_SIFT.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BMPread.cpp ImageProcess.cpp Main.cpp SIFT.cpp
+         BMPread.cpp
+         ImageProcess.cpp
+     1>ImageProcess.cpp(44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ImageProcess.cpp(45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ImageProcess.cpp(46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ImageProcess.cpp(12): warning C4101: “k”: 未引用的局部变量
+     1>ImageProcess.cpp(142): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>ImageProcess.cpp(159): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>ImageProcess.cpp(175): warning C4101: “step”: 未引用的局部变量
+     1>ImageProcess.cpp(171): warning C4101: “k”: 未引用的局部变量
+     1>ImageProcess.cpp(214): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ImageProcess.cpp(245): warning C4101: “k”: 未引用的局部变量
+     1>ImageProcess.cpp(353): warning C4101: “step”: 未引用的局部变量
+     1>ImageProcess.cpp(349): warning C4101: “k”: 未引用的局部变量
+     1>ImageProcess.cpp(393): warning C4101: “step”: 未引用的局部变量
+     1>ImageProcess.cpp(389): warning C4101: “k”: 未引用的局部变量
+     1>ImageProcess.cpp(433): warning C4101: “step”: 未引用的局部变量
+     1>ImageProcess.cpp(429): warning C4101: “k”: 未引用的局部变量
+     1>ImageProcess.cpp(517): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ImageProcess.cpp(518): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ImageProcess.cpp(474): warning C4101: “step”: 未引用的局部变量
+     1>ImageProcess.cpp(470): warning C4101: “k”: 未引用的局部变量
+     1>ImageProcess.cpp(667): warning C4101: “k”: 未引用的局部变量
+         Main.cpp
+         SIFT.cpp
+     1>SIFT.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SIFT.cpp(220): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SIFT.cpp(235): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(282): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(291): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(293): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(305): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(413): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(414): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(497): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SIFT.cpp(521): warning C4101: “m”: 未引用的局部变量
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\Homework\计算机视觉\C_SIFT\Release\C_SIFT.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\Homework\计算机视觉\C_SIFT\Release\C_SIFT.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\Homework\计算机视觉\C_SIFT\Release\C_SIFT.lib" /MACHINE:X86 /SAFESEH Release\BMPread.obj
+         Release\ImageProcess.obj
+         Release\Main.obj
+         Release\MathFunc.obj
+         Release\SIFT.obj
+         正在生成代码
+         已完成代码的生成
+         C_SIFT.vcxproj -> C:\Users\Administrator\Desktop\Homework\计算机视觉\C_SIFT\Release\C_SIFT.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\Homework\计算机视觉\C_SIFT\C_SIFT\C_SIFT.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.87
